@@ -1,0 +1,15 @@
+﻿  Uic'ing Sculptor.ui...
+  Rcc'ing Sculptor.qrc...
+RCC : warning : No resources in 'C:\Users\Carmine\Google Drive\IUM\Final\3DSculpting\Sculptor\Sculptor.qrc'.
+  
+  qrc_Sculptor.cpp
+  main.cpp
+  MarchingCubes.cpp
+  mpVector.cpp
+  Sculptor.cpp
+  Generazione del codice in corso...
+c:\users\carmine\google drive\ium\final\3dsculpting\sculptor\sculptor.cpp(215): warning C4715: 'Sculptor::calcNewIsoValue': non tutti i percorsi di controllo restituiscono un valore
+c:\users\carmine\google drive\ium\final\3dsculpting\sculptor\mpvector.cpp(83): warning C4172: verrà restituito l'indirizzo del valore  temporaneo o della variabile locale
+c:\users\carmine\google drive\ium\final\3dsculpting\sculptor\mpvector.cpp(89): warning C4717: 'mpVector::operator mp4Vector': funzione ricorsiva su tutti i percorsi di controlli, provocherà un overflow dello stack in fase di esecuzione
+  Sculptor.vcxproj -> C:\Users\Carmine\Google Drive\IUM\Final\3DSculpting\Sculptor\x64\Debug\Sculptor.exe
+  Sculptor.vcxproj -> C:\Users\Carmine\Google Drive\IUM\Final\3DSculpting\Sculptor\x64\Debug\Sculptor.pdb (Full PDB)

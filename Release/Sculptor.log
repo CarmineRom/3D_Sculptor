@@ -1,0 +1,3 @@
+﻿  Sculptor.cpp
+c:\users\carmine\google drive\ium\final\3dsculpting\sculptor\sculptor.cpp(517): warning C4715: 'Sculptor::calcNewIsoValue': non tutti i percorsi di controllo restituiscono un valore
+  Sculptor.vcxproj -> C:\Users\Carmine\Google Drive\IUM\Final\3DSculpting\Sculptor\Win32\Release\Sculptor.exe
